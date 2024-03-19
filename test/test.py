@@ -1,3 +1,5 @@
+# Test.py not needed for "tt_um_lancemitrex_DIP_Switch_to_HEX_Display"
+
 # SPDX-FileCopyrightText: © 2023 Uri Shaked <uri@tinytapeout.com>
 # SPDX-License-Identifier: MIT
 
