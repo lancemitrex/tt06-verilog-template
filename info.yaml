@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:        
   title:        "DIP Switch to HEX 7-segment Display"      # DIP Switch to HEX 7-segment Display
-  author:       "Lance Mitrex / Tim Huster"      # Lance Mitrex / Tim Huster
+  author:       "Lance Mitrex"      # Lance Mitrex
   discord:      "lancemitrex"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Input Binary digit, 1 to 16 with the DIP Switch. The HEX is displayed on the 7-segment display."      # One Line Description
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
