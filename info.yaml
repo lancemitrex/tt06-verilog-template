@@ -1,5 +1,5 @@
 # Tiny Tapeout project information
-project:
+project:        "tt_um_lancemitrex_DIP Switch to HEX 7-segment Display. 
   title:        "DIP Switch to HEX 7-segment Display"      # DIP Switch to HEX 7-segment Display
   author:       "Lance Mitrex / Tim Huster"      # Lance Mitrex / Tim Huster
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
