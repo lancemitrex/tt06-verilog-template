@@ -18,8 +18,8 @@
     - "project.v"
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
-  pinout:
-  # Inputs
+pinout:
+# Inputs
   ui[0]: ""
   ui[1]: ""
   ui[2]: ""
@@ -29,7 +29,7 @@
   ui[6]: ""
   ui[7]: ""
 
-  # Outputs
+# Outputs
   uo[0]: ""
   uo[1]: ""
   uo[2]: ""
