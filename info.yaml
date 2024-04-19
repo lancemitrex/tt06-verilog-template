@@ -3,7 +3,7 @@ project:
   title:        "tt_um_lancemitrex_DIP_Switch_to_HEX_Display"      # Project title
   author:       "Lance Mitrex / Tim Huster"      # Your name
   discord:      "lancemitrex"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Input Binary digit, 1 to 16 with the DIP Switch. The HEX is displayed on the 7-segment display."      # Input Binary digit, 1 to 16 with the DIP Switch. The HEX is displayed on the 7-segment display."      # One line description of what your project does
+  description:  "Input Binary digit, 1 to 16 with the DIP Switch. The HEX is displayed on the 7-segment display."      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
