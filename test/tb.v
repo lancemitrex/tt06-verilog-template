@@ -23,7 +23,7 @@ module tb ();
   wire [7:0] uio_oe;
 
   // Replace tt_um_example with your module name:
-  tt_um_lancemitrex_DIP_Switch_to_HEX_Display
+  tt_um_lancemitrex
  user_project (
 
       // Include power ports for the Gate Level test:
